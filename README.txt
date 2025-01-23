@@ -33,4 +33,17 @@
 
 13. git commit -m "<your commit message>" -> If we want to avoid opening a text editor like vim/nano to add commit message we can use this following command.
 
-14. 
+14. git diff commit1 commit2 -> gives the difference of all files changes between two commits.
+
+15. git remote -> list down all the remote connection names.
+
+16. git remote add <name of remote> <link of the remote> -> this command helps us to add a new link to the remote repo and give a name to it.
+
+17. git remote rm <name of remote> -> this command deletes a remote connection.
+
+18. Remote connection -> It helps you to link two git repository for uploading and downloading changes from each otherwise.
+
+19. git remote rename <oldname> <newname> --> this command renames the remote connection.
+
+Note : The name of the remote connection is always used to establish communication between the repos.
+
