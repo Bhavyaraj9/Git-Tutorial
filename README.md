@@ -7,7 +7,8 @@
                 we do `git status` and we see abunch if 'untracked files' then these are actually called to be in the working area.
 
 3. Staging area -> What all files are going to be part of the next version that we will create.
-                   This staging area is a place where git know what changes will be done from the last version to latest version.
+                   This staging area is a place where git know what changes will be done from the last 
+                   version to latest version.
 
 4. Repository area -> This area contains the details of all your previous registered version.
                       And the files in this area, git already manages them and know their version history.
