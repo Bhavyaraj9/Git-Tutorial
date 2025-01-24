@@ -54,6 +54,7 @@ Note : The name of the remote connection is always used to establish communicati
 
 22.  git pull <remote name> <brach name> -> Download latest changes from the branch of the mentioned remote in your local repo.
 
+23. Merge conflict may occurs.
 
 ### Recommended practise to do 
      
